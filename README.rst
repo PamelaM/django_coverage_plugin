@@ -12,9 +12,9 @@ A `coverage.py`_ plugin to measure the coverage of Django templates.
 
 .. downloads badge seems to be broken... |downloads|
 
-Supported Python versions are 2.7, 3.4, 3.5 and 3.6.
+Supported Python versions are 2.7, 3.4, 3.5, 3.6, and 3.7a4.
 
-Supported Django versions are 1.8 through 2.0b1.
+Supported Django versions are 1.8 through 2.1-nightly
 
 Supported coverage.py versions are 4.0 and higher.
 
@@ -55,6 +55,11 @@ plural text, so both are marked as used if the tag is used.
 
 Changes
 ~~~~~~~
+
+v1.5.3 --- 2018-01-29
+----------------------
+
+Validates support for Django version 2.0.1 and 2.1 nightly development tip.
 
 v1.5.2 --- 2017-10-18
 ----------------------

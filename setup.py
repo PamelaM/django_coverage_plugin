@@ -13,6 +13,7 @@ Programming Language :: Python :: 2.7
 Programming Language :: Python :: 3.4
 Programming Language :: Python :: 3.5
 Programming Language :: Python :: 3.6
+Programming Language :: Python :: 3.7
 Programming Language :: Python :: Implementation :: CPython
 Programming Language :: Python :: Implementation :: PyPy
 Topic :: Software Development :: Quality Assurance
@@ -22,7 +23,7 @@ Development Status :: 3 - Alpha
 
 setup(
     name='django_coverage_plugin',
-    version='1.5.2',
+    version='1.5.3',
     description='Django template coverage.py plugin',
     author='Ned Batchelder',
     author_email='ned@nedbatchelder.com',
